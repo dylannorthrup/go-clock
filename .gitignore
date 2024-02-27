@@ -1,0 +1,5 @@
+# Ignore build artifact
+go_clock
+
+# Ignore vi swap files
+.*.swp
